@@ -1,0 +1,16 @@
+D:\VS2013\WebSocketServer\WebSocketServer\bin\Debug\WebSocketServer.exe.config
+D:\VS2013\WebSocketServer\WebSocketServer\bin\Debug\WebSocketServer.exe
+D:\VS2013\WebSocketServer\WebSocketServer\bin\Debug\WebSocketServer.pdb
+D:\VS2013\WebSocketServer\WebSocketServer\obj\Debug\WebSocketServer.exe
+D:\VS2013\WebSocketServer\WebSocketServer\obj\Debug\WebSocketServer.pdb
+D:\VS2013\WebSocketServer\WebSocketServer\obj\Debug\WebSocketServer.csprojResolveAssemblyReference.cache
+D:\VS2013\WebSocketServer\WebSocketServer\bin\Debug\Commons.dll
+D:\VS2013\WebSocketServer\WebSocketServer\bin\Debug\Commons.pdb
+D:\VS2013\webSocket\Server\WebSocketServer\bin\Debug\WebSocketServer.exe.config
+D:\VS2013\webSocket\Server\WebSocketServer\obj\Debug\WebSocketServer.exe
+D:\VS2013\webSocket\Server\WebSocketServer\obj\Debug\WebSocketServer.pdb
+D:\VS2013\webSocket\Server\WebSocketServer\bin\Debug\WebSocketServer.exe
+D:\VS2013\webSocket\Server\WebSocketServer\bin\Debug\WebSocketServer.pdb
+D:\VS2013\webSocket\Server\WebSocketServer\bin\Debug\Commons.dll
+D:\VS2013\webSocket\Server\WebSocketServer\bin\Debug\Commons.pdb
+D:\VS2013\webSocket\Server\WebSocketServer\obj\Debug\WebSocketServer.csprojResolveAssemblyReference.cache

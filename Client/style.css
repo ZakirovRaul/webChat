@@ -1,0 +1,82 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.mainForm {
+    width: 600px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.headerPanel {
+    height: 50px;
+}
+
+.headerPanelControls {
+    float: right;
+}
+
+.headerPanelControls button[type="button"] {
+    font-size: 20px;
+}
+
+.headerPanelControls input[type="text"] {
+    font-size: 20px;
+}
+
+.centerPanel {
+    width: 600px;
+    height: 400px;
+}
+
+.users_column {
+    width: 150px;
+    height: 400px;
+    float: left;
+    background-color: beige;
+}
+
+.messages_column {
+    width: 400px;
+    height: 400px;
+    float: right;
+    background-color: burlywood;
+
+}
+
+.me {
+    text-align: right;
+}
+
+.people {
+    text-align: left;
+}
+
+.info {
+    text-align: center;
+}
+
+
+.bottomPanel {
+    margin-top: 15px;
+}
+
+.bottomPanelControls {
+    float: left;
+}
+
+#txtMessage {
+    font-size: 20px;
+    border-width:1px;
+    width:448px;
+}
+
+#btnMessage {
+    
+    font-size: 20px;
+    border-width:1px;
+    width:148px;
+}

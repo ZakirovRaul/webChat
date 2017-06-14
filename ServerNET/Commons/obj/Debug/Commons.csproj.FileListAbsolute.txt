@@ -1,0 +1,8 @@
+D:\VS2013\WebSocketServer\Commons\bin\Debug\Commons.dll
+D:\VS2013\WebSocketServer\Commons\bin\Debug\Commons.pdb
+D:\VS2013\WebSocketServer\Commons\obj\Debug\Commons.dll
+D:\VS2013\WebSocketServer\Commons\obj\Debug\Commons.pdb
+D:\VS2013\webSocket\Server\Commons\bin\Debug\Commons.dll
+D:\VS2013\webSocket\Server\Commons\bin\Debug\Commons.pdb
+D:\VS2013\webSocket\Server\Commons\obj\Debug\Commons.dll
+D:\VS2013\webSocket\Server\Commons\obj\Debug\Commons.pdb
